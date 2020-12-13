@@ -43,6 +43,6 @@ Analysis using Python
 The current Python script that was used to perform the congressional election audit could be re-used with minor modifications in the future elections.  
 
 **Some Examples:**
-1. State-wide election tracking and audit (to enhance reporting add party column to track party affiliation of each candidate)
+1. State-wide election tracking and audit (to enhance reporting add party column to track party affiliation of each candidate).
 2. By adding year column to the dataset, this script could be used to compare results of two consecutive elections to compare voter turnout by county. This could be used for planning purposes to encourage voters in counties that have declining trend of voter turnout.
 
