@@ -6,10 +6,13 @@ Analysis using Python
 
 **The Analysis should include the following information:**
 1. The total number of votes cast
-2. A complete list of candidates who received votes
-3. The percentage of votes each candidate won
-4. The total number of votes each candidate won
-5. The winner of the election based on popular vote
+2. The voter turnout for each county
+3. The percentage of votes from each county out of the total count
+4. The county with the highest turnout
+5. A complete list of candidates who received votes
+6. The percentage of votes each candidate won
+7. The total number of votes each candidate won
+8. The winner of the election based on popular vote
 
 ## Resources
 - Data Source: [election_results.csv](Resources/election_results.csv)
@@ -19,6 +22,12 @@ Analysis using Python
 
 ## Summary
 - **There were 369,711 votes cast in the congressional election.**
+- *The list of counties and the voter turnout in those counties:*
+    - Jefferson County, voter turnout was 10.5% of total votes and 38,855 number of votes cast in this county.
+    - Denver County: voter turnout was 82.8% of total votes and 306,055 number of votes cast in this county.
+    - Arapahoe County: voter turnout was 6.7% of total votes and 24,801 number of votes cast in this county.
+- *The county with the highest number of votes was:*    
+    - Denver County
 - *The candidates were:*
     - Charles Casper Stockham
     - Diana DeGette
