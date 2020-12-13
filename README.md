@@ -38,3 +38,7 @@ Analysis using Python
     - Raymon Anthony Doane 3.1% of the total vote and 11,606 number of votes.
 - *The winner of the election was:*
     - Diana DeGette, who received 73.8% of the total vote and 272,892 number of votes.
+    
+### Election-Audit Summary:
+The current Python script that was used to perform the congressional election audit could be re-used in the future elections. Some minor modifications might be needed. Some examples are:
+
